@@ -1,0 +1,1 @@
+# plugins-footer-mega-grid-columns
