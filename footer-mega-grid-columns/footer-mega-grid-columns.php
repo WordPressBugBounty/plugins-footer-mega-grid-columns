@@ -5,10 +5,10 @@
  * Text Domain: footer-mega-grid-columns
  * Description: Footer Mega Grid Columns - For Legacy / Classic / Old Widget Screen: Register a widget area for your theme and allow you to add and display widgets in grid view with multiple columns.
  * Domain Path: /languages/
- * Version: 1.4.2
- * Author: WP OnlineSupport, Essential Plugin
+ * Version: 1.4.3
+ * Author: Essential Plugin
  * Author URI: https://www.essentialplugin.com/wordpress-plugin/footer-mega-grid-columns/
- * Contributors: WP OnlineSupport
+ * Contributors: Essential Plugin
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'FMGC_VERSION' ) ) {
-	define( 'FMGC_VERSION', '1.4.2' ); // Version of plugin
+	define( 'FMGC_VERSION', '1.4.3' ); // Version of plugin
 }
 
 if( !defined( 'FMGC_DIR' ) ) {

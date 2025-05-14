@@ -1,13 +1,13 @@
 === Footer Mega Grid Columns - For Legacy / Classic / Old Widget Screen ===
 Tags: footer widgets, footer widgets in grid, website footer, simple footer editor, mega footer
-Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, patelketan
+Contributors: essentialplugin
 Requires at least: 4.0
-Tested up to: 6.6.1
-Stable tag: 1.4.2
+Tested up to: 6.8.1
+Stable tag: 1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Footer Mega Grid Columns - Register a footer widget area for your theme and allow you to add and display footer widgets in grid view with multiple columns
+Footer Mega Grid Columns register a footer widget area for theme and allow you to add and display footer widgets in grid view with multiple columns.
 
 == Description ==
 
@@ -96,7 +96,10 @@ Use like this
 
 == Changelog ==
 
-= 1.4.2 (23 Aug 2024)
+= 1.4.3 (14, May 2025) =
+* [*] Check compatibility with WordPress version 6.8.1
+
+= 1.4.2 (23, Aug 2024) =
 * [*] Check compatibility with WordPress version 6.6.1
 
 = 1.4.1 (07, June 2022) =
